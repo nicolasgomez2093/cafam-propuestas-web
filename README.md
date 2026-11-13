@@ -4,7 +4,7 @@ Seven interactive static design prototypes for review. The landing page provides
 
 ## Browse
 
-Open `index.html` in a browser or use the GitHub Pages link shown in this repository once deployment is enabled. All links and assets use relative paths, so the site works under a GitHub Pages project URL.
+Visit **https://nicolasgomez2093.github.io/cafam-propuestas-web/** to browse all seven proposals without downloading files or signing in. You can also open `index.html` locally in a browser. All links and assets use relative paths, so the site works under a GitHub Pages project URL.
 
 ## Contents
 
